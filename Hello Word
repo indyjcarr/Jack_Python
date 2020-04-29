@@ -1,0 +1,5 @@
+print("Hello World")
+jack=3+3
+print(jack)
+test=1+1
+print(test)
